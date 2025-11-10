@@ -1,7 +1,7 @@
 # Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
 ```
 Name: Markandeyan Gokul
-### Register Number : 212224240086
+Register Number : 212224240086
 ```
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
